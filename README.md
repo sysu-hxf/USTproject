@@ -1,6 +1,6 @@
 ## 五子棋蒙特卡洛自动策略模型
 
-**wuziqi** 是一个基于特殊比赛棋盘（圆形）和规则的蒙特卡洛自动策略模型。在 HKUST 的五子棋对抗中，我们的模型取得了比赛的优胜。欢迎使用 `finalplayer.py` 进行体验，这个程序中包含了 `computer_move1` ~ `computer_move4` 四种不同“智力程度”的机器模型，难度依次递增。你可以和它们进行人机对抗，也可以导入自己的五子棋策略进行自动对局 😊。
+**wuziqi** 是一个基于特殊比赛棋盘（圆形）和规则的蒙特卡洛自动策略模型。在 HKUST 的五子棋对抗中，我们的模型取得了比赛的优胜（在UST16个队伍的模型中取得前四，由于最后的四个model难以分出胜负，比赛终止）。欢迎使用 `finalplayer.py` 进行体验，这个程序中包含了 `computer_move1` ~ `computer_move4` 四种不同“智力程度”的机器模型，难度依次递增。你可以和它们进行人机对抗，也可以导入自己的五子棋策略进行自动对局 😊。
 
 详细规则请参考 `Final Projectchess.html` 或者 `Final Projectchess.ipynb`。
 ## Gomoku Monte Carlo Automatic Strategy Model
